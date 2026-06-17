@@ -1,10 +1,38 @@
-# EcoWater API
+# 💧 EcoWater API
 
-## Monitoramento Inteligente de Consumo de Água e Preservação de Recursos Naturais
+API REST desenvolvida em ASP.NET Core 8 para monitoramento inteligente do consumo de água, detecção de desperdícios e geração de relatórios ambientais.
 
-## Projeto desenvolvido em ASP.NET Core 8 para apoio a iniciativas ESG
+## 🌎 Tema ESG
 
-### **Integrante - Letícia Schmitt Rocha**
+Acesso à Água e Preservação de Recursos Naturais
+
+## 👩‍💻 Autora
+
+Letícia Schmitt Rocha
+
+## 🚀 Principais Funcionalidades
+
+- Gestão de Sensores
+- Monitoramento de Consumo
+- Detecção Automática de Vazamentos
+- Alertas de Desperdício
+- Relatórios Ambientais
+- JWT Authentication
+- Paginação
+- Testes Automatizados
+- Docker
+- Swagger
+
+## 🛠️ Tecnologias
+
+- ASP.NET Core 8
+- C#
+- Entity Framework Core
+- SQL Server
+- JWT
+- Swagger
+- xUnit
+- Docker
 
 ---
 
